@@ -1,7 +1,7 @@
 # DRLND_3nd_project_FINAL
 The submission version of DRLND 3nd project (collaboration and competition) solved with DDPG.
 ![](Hnet-image.gif)
-
+![](Hnet.com-image.gif)
 ## Environment
 
 ### 1) States
@@ -22,8 +22,26 @@ The submission version of DRLND 3nd project (collaboration and competition) solv
 ## Getting Started
 
 ### 1) Instruction for Installing Dependencies
+
+tensorflow==1.7.1
+Pillow>=4.2.1
+matplotlib
+numpy>=1.11.0
+jupyter
+pytest>=3.2.2
+docopt
+pyyaml
+protobuf==3.5.2
+grpcio==1.11.0
+torch==0.4.0
+pandas
+scipy
+ipykernel
+
+
 * from unityagents import UnityEnvironment
 * env = UnityEnvironment(file_name='/data/Reacher_Linux_NoVis/Reacher.x86_64')
 
 ### 2) How to Run Code
 * Run Jupyter notebook 'Tennis.ipynb' for both training and saving after problem is solved.
+

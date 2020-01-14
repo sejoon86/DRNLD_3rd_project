@@ -1,7 +1,6 @@
 # DRLND_3nd_project_FINAL
 The submission version of DRLND 3nd project (collaboration and competition) solved with DDPG.
-![](Hnet-image.gif)
-![](Hnet.com-image.gif)
+![](tennis_trained_result.gif) 
 ## Environment
 
 ### 1) States
@@ -23,6 +22,7 @@ The submission version of DRLND 3nd project (collaboration and competition) solv
 
 ### 1) Instruction for Installing Dependencies
 
+```
 tensorflow==1.7.1
 Pillow>=4.2.1
 matplotlib
@@ -37,7 +37,7 @@ torch==0.4.0
 pandas
 scipy
 ipykernel
-
+```
 
 * from unityagents import UnityEnvironment
 * env = UnityEnvironment(file_name='/data/Reacher_Linux_NoVis/Reacher.x86_64')

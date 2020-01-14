@@ -1,6 +1,9 @@
 # DRLND_3nd_project_FINAL
 The submission version of DRLND 3nd project (collaboration and competition) solved with DDPG.
 ![](tennis_trained_result.gif) 
+**[Result of trained tennis agent]** 
+
+
 ## Environment
 
 ### 1) States

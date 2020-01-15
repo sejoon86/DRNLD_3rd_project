@@ -5,10 +5,6 @@ The submission version of DRLND 3nd project (collaboration and competition) solv
 **[Result of trained tennis agent]** 
 
 <div class="text-blue mb-2">
-  ## env 
-  
-  haha
-  
   .text-blue on white
 </div>
 

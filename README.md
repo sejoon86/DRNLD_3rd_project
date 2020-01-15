@@ -9,7 +9,7 @@ The submission version of DRLND 3nd project (collaboration and competition) solv
 * This repository provides the training code and saved weights for the "tennis" environment, provided by Udacity.
 * The **DDPG** algorithm was used to solve the problem. (More details in the *Report.ipynb*)
 * The motivation (to my understanding) to solve this "tennis" problem is to apply an RL algorithm in a collaborating (and possibly competition) work environment.
-* Approximately 1000~1500 episodes were simulated before solving the problem. (Detailed results in the *Report.ipynb*)
+* Approximately 1100~2700 episodes were simulated before solving the problem. (Detailed results in the *Report.ipynb*)
  
  
 ## Environment
